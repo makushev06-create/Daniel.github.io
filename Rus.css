@@ -1,0 +1,231 @@
+
+ #body{ 
+ height: 100vh; 
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+            color: white;
+ background-image: url('Картинки/1.jpg'); 
+background-repeat: no-repeat;
+ background-position: center;
+   background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+#Naz{
+
+transform: translate(-820px,-430px);
+    font-size: 24px;
+display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none;
+background-color: rgb(10, 10, 10);
+border-radius: 10px;
+color:rgb(0, 0, 0);
+cursor: pointer;
+border: 5px solid rgb(74, 13, 187);
+text-align: center;
+
+width: 120px;
+ background: radial-gradient(circle farthest-corner at 10% 20%, #fffffe, #7e7e7e); 
+height: 50px;
+position: absolute;
+
+
+}
+#Morf 
+{
+transform: translate(-170%, -130%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+}
+
+
+#Morf:hover {
+  transform: scale(1.1) translate(-160%, -120%);
+}
+
+
+
+
+
+
+
+#orhp
+{
+transform: translate(-130%, -130%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+
+
+}
+
+#orhp:hover{
+  transform: scale(1.1) translate(-120%, -120%);
+}
+
+
+
+#phraz
+{
+  transform: translate(-90%, -130%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+}
+
+
+#phraz:hover {
+transform: scale(1.1) translate(-85%, -120%);
+}
+
+
+
+
+
+
+
+
+#orh{
+
+transform: translate(-50%, -130%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+
+
+
+}
+
+#orh:hover{
+  transform: scale(1.1) translate(-45%, -120%);
+}
+
+
+
+
+
+#Litr
+{
+
+transform: translate(-10%, -130%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+}
+
+#Litr:hover{
+  transform: scale(1.1) translate(-10%, -120%);
+}
+
+
+
+
+#h1
+{
+   
+
+font-size: 30px;
+ text-transform: uppercase;
+ letter-spacing: 2px;
+transform: translate(150%, -1000%);
+color: rgb(0, 0, 0);
+ border: 5px solid #00aeff; /* Толщина линии рамки */
+   display: inline-block;  
+ background-color: rgb(131, 131, 131);
+  border-radius: 10px; 
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); /* Легкая тень */
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+#bo2
+{
+height: 100vh; 
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+            color: white;
+             background-image: url('Картинки/Fon3.jpg'); 
+background-repeat: no-repeat;
+ background-position: center;
+   background-size: cover;
+    background-attachment: fixed;
+}
+#d1 {
+    font-size: 25px;
+position: relative;
+top: 600px;
+left: 25%;
+color: rgb(255, 255, 255);
+text-align: center;
+margin: auto;
+ width: 50%;
+ position: absolute;
+}
+#d2 {
+font-size: 20px;
+position: relative;
+top:  2000px;
+left: 25%;
+color: rgb(255, 255, 255);
+text-align: center;
+margin: auto;
+ width: 50%;
+ position: absolute;
+}
+
+#ad1 {
+
+
+transform: translate(-800px,-400px);
+    font-size: 24px;
+display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none;
+background-color: rgb(10, 10, 10);
+border-radius: 10px;
+color:rgb(0, 0, 0);
+cursor: pointer;
+border: 5px solid rgb(74, 13, 187);
+text-align: center;
+
+width: 120px;
+ background: radial-gradient(circle farthest-corner at 10% 20%, #fffffe, #7e7e7e); 
+height: 50px;
+position: absolute;
+}
+
+
+#if {
+position: relative;
+top: 1700px;
+left: 30%;
+position: absolute;
+
+}
+#if2{
+
+position: relative;
+top: 200px;
+left: 30%;
+position: absolute;
+
+
+}
+
+#hd1 {
+font-size: 30px;
+ text-transform: uppercase;
+ letter-spacing: 2px;
+transform: translate(0%, -525%);
+color: rgb(255, 255, 255);
+ border: 5px solid #00aeff; /* Толщина линии рамки */
+   display: inline-block;  
+ background-color: rgb(63, 63, 63);
+  border-radius: 10px; 
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); /* Легкая тень */
+  width: 500px;
+  height: 70px;
+  position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

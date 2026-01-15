@@ -1,0 +1,406 @@
+#h1 {
+    font-size: 30px;
+ text-transform: uppercase;
+ letter-spacing: 2px;
+transform: translate(0%, -500%);
+color: rgb(255, 255, 255);
+ border: 5px solid #2ea734; /* Толщина линии рамки */
+   display: inline-block;  
+ background-color: rgb(63, 63, 63);
+  border-radius: 10px; 
+  
+  width: 600px;
+  height: 70px;
+  position: absolute;
+}
+
+
+#Naz{
+
+transform: translate(-820px,-400px);
+    font-size: 24px;
+display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none;
+background-color: rgb(10, 10, 10);
+border-radius: 10px;
+color:rgb(0, 0, 0);
+cursor: pointer;
+border: 5px solid rgb(74, 13, 187);
+text-align: center;
+
+width: 120px;
+ background: radial-gradient(circle farthest-corner at 10% 20%, #fffffe, #7e7e7e); 
+height: 50px;
+position: absolute;
+
+
+}
+
+#body{ 
+ height: 100vh; 
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+            color: white;
+ background-image: url('Картинки/1.jpg'); 
+background-repeat: no-repeat;
+ background-position: center;
+   background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+
+
+#div1 {
+
+ font-size: 25px;
+position: relative;
+top: 100px;
+left: 0%;
+color: rgb(0, 0, 0);
+text-align: center;
+margin: auto;
+ width: 30%;
+ 
+ 
+}
+
+#historu{
+
+
+   height: 100vh; 
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+            color: white;
+ background-image: url('Картинки/History.jpg'); 
+background-repeat: no-repeat;
+ background-position: center;
+   background-size: cover;
+    background-attachment: fixed;
+
+
+
+}
+#dref
+{
+
+transform: translate(-180%, -79%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+
+}
+
+#dref:hover{
+
+
+transform: scale(1.1) translate(-160%, -79%);
+
+
+
+
+}
+
+
+
+#Ros1{
+
+transform: translate(-120%, -100%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+
+}
+
+#Ros1:hover{ transform: scale(1.1) translate(-110%, -90%);}
+
+
+#Ros2{
+
+transform: translate(-83%, -120%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+
+}
+
+#Ros2:hover{ transform: scale(1.1) translate(-75%, -110%);}
+
+#Ros3{
+
+transform: translate(210%, -270%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+  
+}
+#Ros3:hover { transform: scale(1.1) translate(190%, -250%);}
+
+#Ros4{
+
+transform: translate(250%, -270%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(19, 18, 18);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+  
+}
+
+
+#Ros4:hover{ 
+  transform: scale(1.1) translate(220%, -250%);
+}
+
+
+
+#himia{
+
+  height: 100vh; 
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+            color: white;
+ background-image: url('Картинки/himia.jpg'); 
+background-repeat: no-repeat;
+ background-position: center;
+   background-size: cover;
+    background-attachment: fixed;
+
+
+
+}
+
+#ocnov-4{
+
+transform: translate(-200%, -60%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(230, 140, 6);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+
+
+}
+#ocnov-4:hover{
+
+  transform: scale(1.1) translate(-180%, -60%);
+
+
+
+
+
+}
+
+#reack-4{
+
+
+transform: translate(-160%, -40%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(230, 140, 6);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+
+}
+#reack-4:hover{
+
+  transform: scale(1.1) translate(-140%, -40%);
+
+
+
+
+
+}
+
+
+#rastvor-4{
+
+transform: translate(-120%, -60%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(230, 140, 6);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+}
+#rastvor-4:hover{
+
+
+  transform: scale(1.1) translate(-110%, -60%);
+
+}
+
+#organ-4{transform: translate(230%, -253%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(230, 140, 6);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));}
+
+#organ-4:hover{
+
+  transform: scale(1.1) translate(210%, -230%);
+
+
+
+
+}
+
+
+#colvo-4
+{
+transform: translate(270%, -190%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(230, 140, 6);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+}
+#colvo-4:hover{
+
+
+    transform: scale(1.1) translate(250%, -180%);
+}
+
+#live-4
+{
+transform: translate(-410%, 0%);
+
+font-size: 24px;
+  display: inline-block; /* Избавляемся от стандартного поведения ссылки */
+text-decoration: none; /* Убираем подчеркивание ссылки */
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+color: rgb(230, 140, 6);
+cursor: pointer;
+ border: 5px solid rgb(74, 13, 187);
+width: 150px;
+height: 120px;
+text-align: center;
+background-image: linear-gradient(rgb(156, 154, 154), rgb(0, 174, 255));
+
+
+}
+
+#live-4:hover{
+
+  transform: scale(1.1) translate(-380%, 0%);
+
+}
+
+
+
+
+
+
+

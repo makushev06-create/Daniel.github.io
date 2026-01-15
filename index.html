@@ -7,12 +7,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>Дроби и проценты</title>
+<title>Регистрация</title>
 <link rel="stylesheet" href="style.css">
-</head>
-<body id="bo2" >
-  
- <nav>
+<body id="bo1"  >
+
+
+   
+<nav>
     
         <ul>
              <li><p id="zog">Electronic book</p></li>
@@ -34,11 +35,9 @@
     </nav>
 
  
-    <div class="area" >
+    <div class="area-regs" >
 
- <header>
-        Electronic Textbook
-    </header>
+
 
             <ul class="circles">
                     <li></li>
@@ -51,42 +50,81 @@
                     <li></li>
                     <li></li>
                     <li></li>
+                    <li></li>
+                    <li></li>
             </ul>
 
-<h2 style="font-size: 30px; text-align: center; margin: auto; position: relative; top:100px;">Добро пожаловать в электронный учебник</h2>
+<div class="text-regs"> 
 
- <main>
-         
-            
-            <section class="ra" style="position: relative; top:-50px;"> 
-            <p>Здесь собраны лучшие учебные материалы по русскому языку, истории и химии, созданные специально для школьников и студентов. Наш ресурс станет вашим надежным помощником в освоении школьных предметов, подготовке к контрольным работам, экзаменам и олимпиадам.</p>
-            <br>
-            <p>Мы подготовили интересные уроки, тесты, полезные советы и рекомендации, которые помогут вам уверенно двигаться вперед и достигать высоких результатов. Пусть ваше обучение будет лёгким, увлекательным и эффективным!</p>
-          </section>
-            
-            <!-- 
-        <section class="ra">
-            <h2>Новости и события</h2>
-            <p>Актуальные анонсы мероприятий и полезная информация для учащихся.</p>
-        </section>
-        -->
-    </main>
+<div class="div-fon">
 
-    <footer>
+<h1>Регистрация</h1>
+
+<form action="registr.php"   method="post">
+
+<label for="username">Имя пользователя:</label> 
+<br>
+<input type="text" class="input"  name="username" required placeholder="Введите имя пользователя">  
+<br>
+<label for="email">Электронная почта:</label>  
+
+<input type="email"  class="input"   name="email" required placeholder="Введите электронную почту">  
+<br>
+<label for="password">Пароль:</label>  
+
+<input type="password" class="input"  name="password" required placeholder="Введите пароль"> 
+
+<br>
+<label for="repeatpass" >Повторите пароль:</label>
+<input type="password" id='repeatpass'name="repeatpass" placeholder="Повторите пароль">
+
+
+<br>
+<input type="submit" id='regr' value="Зарегистрироваться">  
+<br>
+<br>
+<a href="avtor.html">У вас уже есть аккаунт?</a>
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+</div>
+ 
+</div>
+
+  <footer>
         <p>Техническая поддержка: +7 996 963 17 85</p>
-          <p>Электронная почта организатора: makushev_06@mail.ru</p>
     </footer>
 
 
 
-    </div >
 
-
-   
-    
 
 </body>
+
 </html>
+
+
 
 
 
